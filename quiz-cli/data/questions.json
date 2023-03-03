@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Which is the capital of India?",
+    "options": [
+      "Mumbai",
+      "Delhi",
+      "Kolkata",
+      "Chennai"
+    ],
+    "answer": 1
+  },
+  {
+    "title": "Which is the largest state of India by area?",
+    "options": [
+      "Madhya Pradesh",
+      "Delhi",
+      "Rajasthan",
+      "Uttar Pradesh"
+    ],
+    "answer": 2
+  },
+  {
+    "title": "Which is the largest state of India by population?",
+    "options": [
+      "Maharashtra",
+      "Delhi",
+      "Karnataka",
+      "Uttar Pradesh"
+    ],
+    "answer": 3
+  },
+  {
+    "title": "How many states are there in India?",
+    "options": [
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "answer": 1
+  },
+  {
+    "title": "Find the odd one out.",
+    "options": [
+      "Delhi",
+      "Goa",
+      "Sikkim",
+      "Mizoram"
+    ],
+    "answer": 0
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "quiz-cli",
+  "version": "1.0.0",
+  "description": "A Quiz CLI app built using javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "CLI",
+    "quiz",
+    "js"
+  ],
+  "author": "Aayush",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "inquirer": "^8.0.0"
+  }
+}
