@@ -1,0 +1,35 @@
+{
+  "name": "ginit-cli",
+  "version": "1.0.0",
+  "description": "git init project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "ginit": "./index.js"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "git-init",
+    "CLI"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/auth-basic": "^1.4.8",
+    "@octokit/auth-token": "^3.0.2",
+    "@octokit/rest": "^19.0.5",
+    "chalk": "^4.0.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "configstore": "^5.0.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.0.0",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.7",
+    "simple-git": "^3.14.1",
+    "touch": "^3.1.0"
+  }
+}
